@@ -152,13 +152,21 @@ def name_match(display, target):
 
 def search_author(search_name, institution, retries=3):
     """Zoek een auteur op Scholar. Geeft author-dict terug of None."""
-    query = f'{search_name} {institution}'
+    inst_keyword = institution.lower().split()[0]  # 'utrecht', 'leiden', 'open', 'tilburg'
     for attempt in range(retries):
         try:
-            for candidate in scholarly.search_author(query):
-                if name_match(candidate.get('name', ''), search_name):
-                    return candidate
-            return None  # geen match gevonden
+            candidates = list(scholarly.search_author(search_name))
+            # Eerste poging: naam + instelling matcht
+            for c in candidates:
+                if name_match(c.get('name', ''), search_name):
+                    affil = c.get('affiliation', '').lower()
+                    if inst_keyword in affil:
+                        return c
+            # Tweede poging: naam matcht, instelling negeren
+            for c in candidates:
+                if name_match(c.get('name', ''), search_name):
+                    return c
+            return None
         except Exception as e:
             wait = 10 * (attempt + 1)
             print(f"    poging {attempt + 1} mislukt ({e}), wacht {wait}s …")
