@@ -1,10 +1,7 @@
 name: Scholar data ophalen
 
 on:
-  schedule:
-    # Dagelijks 07:00 Amsterdam-tijd (05:00 UTC zomer / 06:00 UTC winter)
-    - cron: '0 5 * * *'
-  workflow_dispatch:   # ook handmatig te starten via GitHub → Actions-tab
+  workflow_dispatch:   # alleen handmatig te starten (lokaal draait het script)
 
 permissions:
   contents: write      # nodig om scholar_data.json terug te committen
