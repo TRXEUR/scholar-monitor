@@ -1,4 +1,397 @@
 {
-  "generated": "nog niet gedraaid",
-  "teams": {}
+  "generated": "2026-05-16T12:21:14Z",
+  "teams": {
+    "pds": {
+      "label": "PDS · UU",
+      "members_found": 0,
+      "members_total": 30,
+      "members": [
+        {
+          "name": "Elma Blom",
+          "found": false
+        },
+        {
+          "name": "Maria de Haan",
+          "found": false
+        },
+        {
+          "name": "Marian Jongmans",
+          "found": false
+        },
+        {
+          "name": "Pauline Slot",
+          "found": false
+        },
+        {
+          "name": "Eva van de Weijer-Bergsma",
+          "found": false
+        },
+        {
+          "name": "Lex Wijnroks",
+          "found": false
+        },
+        {
+          "name": "Paul Baar",
+          "found": false
+        },
+        {
+          "name": "Tjitske de Groot",
+          "found": false
+        },
+        {
+          "name": "Hanna Mulder",
+          "found": false
+        },
+        {
+          "name": "Ora Oudgenoeg-Paz",
+          "found": false
+        },
+        {
+          "name": "Bodine Romijn",
+          "found": false
+        },
+        {
+          "name": "Semiha Bekir",
+          "found": false
+        },
+        {
+          "name": "Cathy van Tuijl",
+          "found": false
+        },
+        {
+          "name": "Sietske van Viersen",
+          "found": false
+        },
+        {
+          "name": "Chiel Volman",
+          "found": false
+        },
+        {
+          "name": "Marieke de Vries",
+          "found": false
+        },
+        {
+          "name": "Pomme van de Weerd",
+          "found": false
+        },
+        {
+          "name": "Merel van Witteloostuijn",
+          "found": false
+        },
+        {
+          "name": "Paul Leseman",
+          "found": false
+        },
+        {
+          "name": "Hans van Luit",
+          "found": false
+        },
+        {
+          "name": "Micha de Winter",
+          "found": false
+        },
+        {
+          "name": "Eduard Elbers",
+          "found": false
+        },
+        {
+          "name": "Arthur Bakker",
+          "found": false
+        },
+        {
+          "name": "Ryanne Francot",
+          "found": false
+        },
+        {
+          "name": "Ine van Liempd",
+          "found": false
+        },
+        {
+          "name": "Sanne Appels",
+          "found": false
+        },
+        {
+          "name": "Hanneke Hart-Baart",
+          "found": false
+        },
+        {
+          "name": "Matthijs Heijstek",
+          "found": false
+        },
+        {
+          "name": "Isa Linders",
+          "found": false
+        },
+        {
+          "name": "Lianne Stolte",
+          "found": false
+        }
+      ],
+      "papers": []
+    },
+    "lei": {
+      "label": "Ped. Wet. · UL",
+      "members_found": 0,
+      "members_total": 37,
+      "members": [
+        {
+          "name": "Lenneke Alink",
+          "found": false
+        },
+        {
+          "name": "Peter Bos",
+          "found": false
+        },
+        {
+          "name": "Christine Espin",
+          "found": false
+        },
+        {
+          "name": "Jean-Louis van Gelder",
+          "found": false
+        },
+        {
+          "name": "Stefanie van Goozen",
+          "found": false
+        },
+        {
+          "name": "Anne-Laura van Harmelen",
+          "found": false
+        },
+        {
+          "name": "Maretha de Jonge",
+          "found": false
+        },
+        {
+          "name": "Maaike Kempes",
+          "found": false
+        },
+        {
+          "name": "Tim Mainhard",
+          "found": false
+        },
+        {
+          "name": "Judi Mesman",
+          "found": false
+        },
+        {
+          "name": "Marga Sikkema-de Jong",
+          "found": false
+        },
+        {
+          "name": "Wouter Staal",
+          "found": false
+        },
+        {
+          "name": "Hanna Swaab",
+          "found": false
+        },
+        {
+          "name": "Carlijn Bergwerff",
+          "found": false
+        },
+        {
+          "name": "Mitch van Geel",
+          "found": false
+        },
+        {
+          "name": "Kristiaan van der Heijden",
+          "found": false
+        },
+        {
+          "name": "Marian Hickendorff",
+          "found": false
+        },
+        {
+          "name": "Dietsje Jolles",
+          "found": false
+        },
+        {
+          "name": "Mariëlle Linting",
+          "found": false
+        },
+        {
+          "name": "Sophie van Rijn",
+          "found": false
+        },
+        {
+          "name": "Ralph Rippe",
+          "found": false
+        },
+        {
+          "name": "Shelley van der Veek",
+          "found": false
+        },
+        {
+          "name": "Harriet Vermeer",
+          "found": false
+        },
+        {
+          "name": "Anja van der Voort",
+          "found": false
+        },
+        {
+          "name": "Hinke Endedijk",
+          "found": false
+        },
+        {
+          "name": "Anne Helder",
+          "found": false
+        },
+        {
+          "name": "Stephanus Huijbregts",
+          "found": false
+        },
+        {
+          "name": "Linda van Leijenhorst",
+          "found": false
+        },
+        {
+          "name": "Suzanne Mol",
+          "found": false
+        },
+        {
+          "name": "Rachel Plak",
+          "found": false
+        },
+        {
+          "name": "Emilie Prast",
+          "found": false
+        },
+        {
+          "name": "Lenny van Rosmalen",
+          "found": false
+        },
+        {
+          "name": "Daisy Smeets",
+          "found": false
+        },
+        {
+          "name": "Elise Swart",
+          "found": false
+        },
+        {
+          "name": "Merel van Vliet",
+          "found": false
+        },
+        {
+          "name": "Simone Vogelaar",
+          "found": false
+        },
+        {
+          "name": "Nienke Bouw",
+          "found": false
+        }
+      ],
+      "papers": []
+    },
+    "ou": {
+      "label": "Onderwijs · OU",
+      "members_found": 0,
+      "members_total": 15,
+      "members": [
+        {
+          "name": "Jos Claessen",
+          "found": false
+        },
+        {
+          "name": "Elly de Bruijn",
+          "found": false
+        },
+        {
+          "name": "Gino Camp",
+          "found": false
+        },
+        {
+          "name": "Ellen Rusman",
+          "found": false
+        },
+        {
+          "name": "Emmy Vrieling-Teunter",
+          "found": false
+        },
+        {
+          "name": "Lisette Wijnia",
+          "found": false
+        },
+        {
+          "name": "Esther Bakker",
+          "found": false
+        },
+        {
+          "name": "Leen Catrysse",
+          "found": false
+        },
+        {
+          "name": "Arnoud Evers",
+          "found": false
+        },
+        {
+          "name": "Maartje Henderikx",
+          "found": false
+        },
+        {
+          "name": "Céleste Meijs",
+          "found": false
+        },
+        {
+          "name": "François Molin",
+          "found": false
+        },
+        {
+          "name": "Tamara Schleepen",
+          "found": false
+        },
+        {
+          "name": "Iwan Wopereis",
+          "found": false
+        },
+        {
+          "name": "Giel van Lankveld",
+          "found": false
+        }
+      ],
+      "papers": []
+    },
+    "til": {
+      "label": "TiCeLS · TiU",
+      "members_found": 0,
+      "members_total": 8,
+      "members": [
+        {
+          "name": "Monique van Dijk-Groeneboer",
+          "found": false
+        },
+        {
+          "name": "Tessa Leesen",
+          "found": false
+        },
+        {
+          "name": "Marije van Amelsvoort",
+          "found": false
+        },
+        {
+          "name": "Siebe Bluijs",
+          "found": false
+        },
+        {
+          "name": "Marijn Gijsen",
+          "found": false
+        },
+        {
+          "name": "Wim Maas",
+          "found": false
+        },
+        {
+          "name": "Gil Keppens",
+          "found": false
+        },
+        {
+          "name": "Janneke van der Loo",
+          "found": false
+        }
+      ],
+      "papers": []
+    }
+  }
 }
