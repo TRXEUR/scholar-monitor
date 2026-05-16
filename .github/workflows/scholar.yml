@@ -25,7 +25,7 @@ jobs:
           cache: pip
 
       - name: scholarly installeren
-        run: pip install scholarly
+        run: pip install -r requirements.txt
 
       - name: Scholar data ophalen
         run: python scholar_fetch.py
